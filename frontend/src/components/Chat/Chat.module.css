@@ -1,0 +1,32 @@
+.chat_wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.dialogs{
+    width: 470px;
+    height: 160px;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 8px;
+}
+
+.chat_form{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+}
+
+.input{
+    width: 348px;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+    height: 40px;
+}
+
+.input:focus-within{
+    outline: none;
+}

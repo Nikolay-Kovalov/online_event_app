@@ -1,0 +1,46 @@
+.event_frame{
+    width: 820px;
+    height: 420px;
+    /* border: 1px solid rgb(190, 190, 190); */
+    border-radius: 8px;
+    display: flex;
+
+}
+
+.frame_wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.btn_outer_wrapper{
+    display: flex;
+    justify-content: center;
+    width: 820px;
+}
+
+.btn_wrapper{
+    display: flex;
+    gap: 20px;
+}
+
+.owner_video{
+    width: 560px;
+    height: 100%;
+    border: 1px solid rgb(190, 190, 190);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: black;
+}
+
+.guests_video_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.guest_video{
+    width: 212px;
+    height: 160px;
+    border: 1px solid rgb(190, 190, 190);
+    background-color: black;
+}

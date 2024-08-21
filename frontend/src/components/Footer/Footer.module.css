@@ -1,0 +1,16 @@
+.footer{
+    padding: 24px 0px;
+    border-top: 1px solid rgb(0, 108, 255);
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.footer_darkmode{
+    border-top: 1px solid rgb(255, 255, 255);  
+}
+
+.logo_link{
+    font-size: 20px;
+    color: rgb(0, 108, 255);
+}

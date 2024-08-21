@@ -1,0 +1,38 @@
+.event_title{
+    color: rgb(0, 108, 255);
+    font-weight: 500;
+    margin-bottom: 4px;
+    font-size: 48px;
+    line-height: 1;
+    word-wrap: break-word;
+}
+
+.event_type{
+    color: rgb(97, 97, 97);
+    font-size: 28px;
+    margin-bottom: 12px;
+}
+
+.event_descr{
+    font-size: 28px;
+    word-wrap: break-word;
+    margin-bottom: 12px;
+}
+
+.date{
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+
+    font-size: 20px;
+}
+
+.time_wrapper{
+    color: rgb(0, 108, 255);;
+}
+
+.span_wrapper{
+    display: flex;
+    gap: 4px;
+}
+

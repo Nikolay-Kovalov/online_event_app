@@ -1,0 +1,21 @@
+.event_page{
+    min-height: 80vh;
+    padding: 24px 0px;
+    display: flex;
+    gap: 32px;
+}
+
+.aside_wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 480px;
+}
+.notific_text{
+    font-size: 24px;
+}
+
+.btn_wrapper{
+    display: flex;
+    gap: 12px;
+}
